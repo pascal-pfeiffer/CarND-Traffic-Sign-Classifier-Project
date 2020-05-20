@@ -16,9 +16,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/train.jpg "Sample of train set"
-[image2]: ./examples/valid.jpg "Sample of validation set"
-[image3]: ./examples/test.jpg "Sample of test set"
+[image1]: ./examples/train.png "Sample of train set"
+[image2]: ./examples/valid.png "Sample of validation set"
+[image3]: ./examples/test.png "Sample of test set"
 [image4]: ./examples/class_counts.png "Class distribution"
 [image5]: ./examples/augmented.png "Augmented images"
 [image6]: ./examples/additional_test.png "Additional test images"
